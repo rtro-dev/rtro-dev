@@ -6,7 +6,7 @@ I am currently studying Web Application Development, training to give the best o
 ## 💻 Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-e35c1e?style=for-the-badge&logo=oracle&logoColor=white&logoSize=auto)
-![Apache Netbeans IDE](https://img.shields.io/badge/-Apache%20Netbeans%20IDE-%231B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white&logoSize=auto)
+![Netbeans](https://img.shields.io/badge/-Apache%20Netbeans%20IDE-%231B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white&logoSize=auto)
 ![Javascript](https://img.shields.io/badge/-Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoSize=auto)
 ![Node.js](https://img.shields.io/badge/-Node.js-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white&logoSize=auto)
 ![React](https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black&logoSize=auto)
