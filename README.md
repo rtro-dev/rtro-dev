@@ -17,10 +17,10 @@ I am currently studying Web Application Development, training to give the best o
 <br>
 ![PHP](https://img.shields.io/badge/-PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white&logoSize=auto)
 ![Laravel](https://img.shields.io/badge/-Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white&logoSize=auto)
+![Wordpress](https://img.shields.io/badge/-Wordpress-%2321759B?style=for-the-badge&logo=wordpress&logoColor=white&logoSize=auto)
 <br>
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto)
-![Wordpress](https://img.shields.io/badge/-Wordpress-%2321759B?style=for-the-badge&logo=wordpress&logoColor=white&logoSize=auto)
 <br>
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-%236C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white&logoSize=auto)
