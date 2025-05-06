@@ -11,11 +11,6 @@ I am currently studying Web Application Development, training to give the best o
 ![Javascript](https://img.shields.io/badge/-Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoSize=auto)
 ![Node.js](https://img.shields.io/badge/-Node.js-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white&logoSize=auto)
 <br>
-![Typescript](https://img.shields.io/badge/-Typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white&logoSize=auto)
-![React](https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black&logoSize=auto)
-![Angular](https://img.shields.io/badge/-Angular-%230F0F11?style=for-the-badge&logo=angular&logoColor=white&logoSize=auto)
-<br>
-![PHP](https://img.shields.io/badge/-PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white&logoSize=auto)
 ![Laravel](https://img.shields.io/badge/-Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white&logoSize=auto)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-%2321759B?style=for-the-badge&logo=wordpress&logoColor=white&logoSize=auto)
 <br>
